@@ -5,7 +5,7 @@ $ICON_THEME=WhiteSur
 $COLOR_SCHEME=prefer-dark
 $CURSOR_THEME=macOS-Black
 $CURSOR_SIZE=26
-$FONT=SFProRounded 
+$FONT=Roboto
 $FONT_STYLE=Regular
 
 exec = gsettings set org.gnome.desktop.interface icon-theme '${ICON_THEME}'

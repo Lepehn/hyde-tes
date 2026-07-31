@@ -1,6 +1,6 @@
 $HOME/.config/kitty/theme.conf|killall -SIGUSR1 kitty
 
-font_family      SFMono Nerd Font
+font_family      RobotoMono Nerd Font Mono
 background_opacity 0.97
 
 # The basic colors

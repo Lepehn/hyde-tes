@@ -8,5 +8,5 @@ $HOME/.config/rofi/theme.rasi
     select-fg:          #D8DEE9FF; /* Light Gray */
     separatorcolor:     transparent;
     border-color:       transparent;
-    font: "SF Pro Rounded 10";
+    font: "Roboto";
 }
